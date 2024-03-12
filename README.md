@@ -3,7 +3,8 @@
 
 1. Intended to be executed through 'inputLouis'.
 2. Download P1input.txt and change FILE_PATH to reflect your P1input.txt.
-3. This code was created by Louis Cubero, if anyone submitted code very similar to mine, they plagiarized and did not use it for educational purposes.
+3. Place TextFileInput.java in the same directory as the other two .java files.
+4. This code was created by Louis Cubero, if anyone submitted code very similar to mine, they plagiarized and did not use it for educational purposes.
 
 # Project concept created by Dr. Kenneth Lord
 
