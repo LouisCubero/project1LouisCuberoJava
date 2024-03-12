@@ -1,6 +1,6 @@
-# project1LouisCuberoJava
 
-CS 212 – Spring 2024 – Project 1
+Project 1 for Kenneth Lord's CS 212 Class
+
 # Use my code for educational purposes, not for submitting it as your own work!
 
 1. Intended to be executed through 'inputLouis'.
