@@ -2,7 +2,7 @@
 # Use my code for educational purposes, not for submitting it as your own work!
 
 1. Intended to be executed through 'inputLouis'.
-2. Change FILE_PATH to reflect your P1input.txt, as it's hardcoded.
+2. Download P1input.txt and change FILE_PATH to reflect your P1input.txt.
 3. This code was created by Louis Cubero, if anyone submitted code very similar to mine, they plagiarized and did not use it for educational purposes.
 
 # Project concept created by Dr. Kenneth Lord
