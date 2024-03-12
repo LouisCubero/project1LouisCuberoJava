@@ -1,19 +1,16 @@
 
-Project 1 for Kenneth Lord's CS 212 Class
-
 # Use my code for educational purposes, not for submitting it as your own work!
 
 1. Intended to be executed through 'inputLouis'.
 2. Change FILE_PATH to reflect your P1input.txt, as it's hardcoded.
 3. This code was created by Louis Cubero, if anyone submitted code very similar to mine, they plagiarized and did not use it for educational purposes.
 
-# Project challenge created by Kenneth Lord from Queens College
+# Project concept created by Dr. Kenneth Lord
 
 This project is loosely based on a word puzzle called the Spelling Beehive found in the Sunday New York Times magazine. In it, a player is given a set of seven letters and has to find as many words as possible using some portion, but at least five, of those seven letters. Letters may be used more than once. Each correct word earns one point.
 
-# The input file, uses letters from first string: "latipmo" and user has to guess the following words below
+# Program uses letters from first string: "latipmo" and user has to guess the following:
 ```
-latipmo
 aioli
 allot
 appall
